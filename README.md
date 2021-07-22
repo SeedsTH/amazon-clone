@@ -1,4 +1,4 @@
-# Amazon Clone using React JS and Firebase
+# Amazon Clone using React JS and Firebase 
 
 ### [Live Site](https://clone-fcc92.web.app)
 
@@ -33,3 +33,5 @@ The app starts in development mode and opens a browser window on `http://localho
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
+
+Have Fun!
